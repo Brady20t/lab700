@@ -1,6 +1,6 @@
 streamlit
 pandas
-scit-learn
+scikit-learn
 openpyxl
 xlrd
 pickle
