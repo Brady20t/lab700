@@ -3,3 +3,5 @@ pandas
 scit-learn
 openpyxl
 xlrd
+pickle
+nunpy
